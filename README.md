@@ -1,4 +1,4 @@
-# Velkolepá animace
+# Velkolepá animace by lilli and marek
 
 ### Vytvořte nádhernou animaci.
 
